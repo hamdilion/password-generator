@@ -1,4 +1,3 @@
-//Written by Naail Iqbal 10/12/2021
 
 //Import Scanner class
 import java.util.Scanner;
